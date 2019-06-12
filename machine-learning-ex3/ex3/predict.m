@@ -18,7 +18,8 @@ p = zeros(size(X, 1), 1);
 % Hint: The max function might come in useful. In particular, the max
 %       function can also return the index of the max element, for more
 %       information see 'help max'. If your examples are in rows, then, you
-%       can use max(A, [], 2) to obtain the max for each row.
+%       can use max(A, [], 2) to obtain the max for each row. 
+%       max(A, [], 1) to obtain the max for each column
 %
 
 
